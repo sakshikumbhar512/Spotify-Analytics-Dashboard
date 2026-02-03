@@ -50,4 +50,4 @@ Data Source: Spotify JSON Personal Data Export.
 Tool: Power BI / DAX (Data Modeling & Visualization).
 
 Design: Custom Dark Mode UI inspired by the Spotify brand guidelines.
-
+ Screenshot : https://github.com/sakshikumbhar512/Spotify-Analytics-Dashboard/blob/main/Spotifydashbord1.jpg
